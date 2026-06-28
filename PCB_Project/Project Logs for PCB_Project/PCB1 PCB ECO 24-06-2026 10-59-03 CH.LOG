@@ -1,0 +1,7 @@
+Added Component: Designator=h1(RHDR40W60P254_2X20_5100X500X2300P)
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/2223/adafruit-industries?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "8.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Adafruit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "485-2223"; VariantName = "[No Variations]"
+Added Class: Name=Sheet1ofNumberHatExpansionAndAnalogForPi5
+Added Room: Name=Sheet1ofNumberHatExpansionAndAnalogForPi5
